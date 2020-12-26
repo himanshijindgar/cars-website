@@ -1,0 +1,304 @@
+/*
+* {
+border: 1px solid rgba(0, 0, 0, 0.3)
+}
+
+
+.container {
+background-color: gray;
+}
+*/
+
+.header {
+color: midnight blue;
+font-size: 18px;
+font-family: helvetica, sans-serif;
+background-color: rgba(20, 77, 100, 0.4);
+min-height: 50px;
+min-width: 1800px;
+text-transform: uppercase;
+position: fixed;
+}
+
+.header li {
+padding: 15px;
+display: inline;
+}
+
+ul {
+padding-top: 10px;
+}
+
+.logo {
+background: url("wallpaper.jpg") no-repeat;
+backgroung-size: cover;
+height: 900px;
+min-width: 1800px;
+padding-top: 140px;
+padding-left: 300px;
+margin-bottom: -50px;
+}
+
+.wallpaper p {
+border: 8px solid black;
+height: 230px;
+width: 500px;
+font-size: 100px;
+text-transform: uppercase;
+color: rgba(255, 255, 255, 1);
+font-weight: 100%;
+text-align: center;
+align: center;
+box-align: center;
+}
+
+.astonmartin p {
+border: 1px solid lavender;
+font-color: black;
+text-transform: uppercase;
+font-size: 20px;
+background-color: crimson;
+height: 25px;
+width: 75px;
+text-align: center;
+align: center;
+margin-left: 250px;
+}
+
+.astonmartin img {
+height: 230px;
+width: 500px;
+margin-top: -500px;
+margin-left: 50px;
+border: 5px solid black;
+}
+
+.audi p {
+border: 1px solid lavender;
+font-color: black;
+text-transform: uppercase;
+font-size: 20px;
+background-color: crimson;
+height: 25px;
+width: 75px;
+text-align: center;
+align: center;
+margin-left: 250px;
+position: relative;
+top: -86px;
+left: 615px;
+}
+
+.audi img {
+height: 230px;
+width: 500px;
+margin-top: -700px;
+margin-left: 615px;
+border: 5px solid black;
+position: relative;
+top: -87px;
+}
+
+.bmw p {
+border: 1px solid lavender;
+font-color: black;
+text-transform: uppercase;
+font-size: 20px;
+background-color: crimson;
+height: 25px;
+width: 75px;
+text-align: center;
+align: center;
+margin-left: 250px;
+position: relative;
+top: -275px;
+}
+
+.bmw img {
+height: 230px;
+width: 500px;
+margin-top: 200px;
+margin-left: 615px;
+border: 5px solid black;
+position: relative;
+top: -275px;
+right: 565px;
+}
+
+.bugatti p {
+border: 1px solid lavender;
+font-color: black;
+text-transform: uppercase;
+font-size: 20px;
+background-color: crimson;
+height: 25px;
+width: 75px;
+text-align: center;
+align: center;
+margin-left: 250px;
+position: relative;
+top: -361px;
+left: 615px;
+}
+
+.bugatti img {
+height: 230px;
+width: 500px;
+margin-top: -700px;
+margin-left: 615px;
+border: 5px solid black;
+position: relative;
+top: -361px;
+}
+
+.ferrari p {
+border: 1px solid lavender;
+font-color: black;
+text-transform: uppercase;
+font-size: 20px;
+background-color: crimson;
+height: 25px;
+width: 75px;
+text-align: center;
+align: center;
+margin-left: 250px;
+position: relative;
+top: -120px;
+
+}
+
+.ferrari img {
+height: 230px;
+width: 500px;
+margin-top: -700px;
+margin-left: 615px;
+border: 5px solid black;
+position: relative;
+top: -125px;
+right: 565px;
+}
+
+.jaguar p {
+border: 1px solid lavender;
+font-color: black;
+text-transform: uppercase;
+font-size: 20px;
+background-color: crimson;
+height: 25px;
+width: 75px;
+text-align: center;
+align: center;
+margin-left: 250px;
+position: relative;
+top: -204px;
+left: 615px;
+}
+
+.jaguar img {
+height: 230px;
+width: 500px;
+margin-top: -700px;
+margin-left: 615px;
+border: 5px solid black;
+position: relative;
+top: -212px;
+}
+
+.lamborghini p {
+border: 1px solid lavender;
+font-color: black;
+text-transform: uppercase;
+font-size: 20px;
+background-color: crimson;
+height: 25px;
+width: 75px;
+text-align: center;
+align: center;
+margin-left: 250px;
+position: relative;
+top: 20px;
+left: 615px;
+}
+
+.lamborghini img {
+height: 230px;
+width: 500px;
+margin-top: -700px;
+margin-left: 615px;
+border: 5px solid black;
+position: relative;
+top: 20px;
+}
+
+.mercedes p {
+border: 1px solid lavender;
+font-color: black;
+text-transform: uppercase;
+font-size: 20px;
+background-color: crimson;
+height: 25px;
+width: 75px;
+text-align: center;
+align: center;
+margin-left: 250px;
+position: relative;
+top: -65px;
+
+}
+
+.mercedes img {
+height: 230px;
+width: 500px;
+margin-top: -700px;
+margin-left: 615px;
+border: 5px solid black;
+position: relative;
+top: -65px;
+right: 565px;
+}
+
+
+.rolls p {
+border: 1px solid lavender;
+font-color: black;
+text-transform: uppercase;
+font-size: 20px;
+background-color: crimson;
+height: 25px;
+width: 75px;
+text-align: center;
+align: center;
+margin-left: 250px;
+position: relative;
+top: -5px;
+left: 300px;
+}
+
+.rolls img {
+border: 5px solid black;
+}
+
+/*
+.rolls img {
+height: 230px;
+width: 500px;
+margin-top: -700px;
+margin-left: 615px;
+border: 5px solid black;
+position: relative;
+top: -212px;
+}
+*/
+
+.footer p {
+text-transform: uppercase;
+font-size: 10px;
+font-color: black;
+font-family: 'Times New Roman';
+}
+
+.footer {
+background-color: gray;
+height: 20px;
+width: 150px;
+}
